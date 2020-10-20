@@ -15,7 +15,7 @@ header .header-content {
     position: relative;
 }
 nav {
-    width: 440px;
+    width: fit-content;
     height: 100%;
     position: absolute;
     right: 0;
