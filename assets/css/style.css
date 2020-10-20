@@ -193,3 +193,22 @@ footer .footer-content {
     margin: auto;
     line-height: 50px;
 }
+@media only screen and (max-width: 1366px) {
+  .post-content {
+    font-size: 13px;
+  }
+  .post-title {
+    font-size: 20px;
+  }
+  .post-image {
+    height: 250px;
+  }
+  .arrow {
+    width: 34px;
+    height: 34px;
+    top:233px;
+  }
+  .date{
+    font-size: 11px;
+  }
+  }
