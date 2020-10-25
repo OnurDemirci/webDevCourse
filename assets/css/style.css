@@ -166,6 +166,7 @@ nav .menu ul li a {
 .post-content p {
     margin-block-start:unset;
     margin-block-end:unset;
+    font-size:small;
 }
 .post-content a time {
     font-size: smaller;
